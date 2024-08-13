@@ -1,0 +1,7 @@
+{
+    "name": "marktohtml",
+    "description": "A Markdown to HTML converter built with D.",
+    "dependencies": {
+        "derelict-util": "~>3.0.1"
+    }
+}
